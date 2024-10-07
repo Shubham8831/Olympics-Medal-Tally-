@@ -63,7 +63,7 @@ Once you have the application running, you can navigate through the different op
 - **Options**: Toggle between Medal Tally, Country-Wise, Year-Wise, and Year-Wise Progress views
 
 ## Screenshots
-![Medal Tally View](path-to-your-screenshot)
+![Medal Tally View](Screenshot 2024-10-07 140405.png)
 
 ## Contributing
 Contributions are welcome! Feel free to open a pull request or issue to discuss changes.
